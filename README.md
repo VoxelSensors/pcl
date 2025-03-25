@@ -1,5 +1,7 @@
 # Point Cloud Library
 
+## This branch contains updates necessary to build PCL with Cuda from source in Ubuntu 20.04.
+ 
 <img src="pcl.png" align="center" height="100">
 
 Continuous integration
