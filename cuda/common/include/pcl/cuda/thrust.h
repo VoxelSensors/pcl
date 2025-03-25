@@ -45,6 +45,7 @@
 #include <thrust/copy.h>
 #include <thrust/device_ptr.h>
 #include <thrust/sequence.h>
+#include <thrust/device_new.h>
 
 #endif    // PCL_CUDA_COMMON_THRUST_H_
 
